@@ -1,3 +1,3 @@
 # hello-world
 Just try it!
-Write  something you need!
+Write  something you need.
